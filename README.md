@@ -51,12 +51,14 @@ Stores the name in the userRecords table using JDBC.
 
 📝 Start Quiz
 ---------------
-Retrieves 5 random questions from the database using:
+      Retrieves 5 random questions from the database using:
 
-        - ORDER BY RAND() LIMIT 5
-Displays questions and options in the console.
-Accepts user answers and checks them against the correct answer.
-Calculates total score.
+           - ORDER BY RAND() LIMIT 5
+        
+      Displays questions and options in the console.
+      Accepts user answers and checks them against the correct answer.
+      Calculates total score.
+
 
 💾 Store Final Score
 ---------------------
@@ -104,10 +106,10 @@ Project Outcome
 
 This project helped in gaining hands-on experience with:
 
-✅ Connecting Java applications to MySQL using JDBC
-✅ Performing real-time CRUD operations
-✅ Writing secure SQL queries using PreparedStatement
-✅ Handling ResultSet data from databases
-✅ Designing and using relational database tables
-✅ Building a complete menu-driven console application
-✅ Implementing quiz logic with score calculation
+      ✅ Connecting Java applications to MySQL using JDBC
+      ✅ Performing real-time CRUD operations
+      ✅ Writing secure SQL queries using PreparedStatement
+      ✅ Handling ResultSet data from databases
+      ✅ Designing and using relational database tables
+      ✅ Building a complete menu-driven console application
+      ✅ Implementing quiz logic with score calculation
